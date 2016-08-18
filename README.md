@@ -3,6 +3,7 @@ AS3 Classes, Using the Sound with library in Animate (Flash).
 
 
 // HOW TO USE:
+
 DJEmbedSound.playMusic(new SoundObj);
 
 DJEmbedSound.musicOn();
